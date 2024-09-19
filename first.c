@@ -2,8 +2,9 @@
  #include <stdlib.h>
  #include <math.h> 
   
-// testando
- //Kellyeee
+//Autor: Kelly Silva
+ //Year: 2024
+ // Course :Btech CSE
 
      int main(){
        //float a, b,c;
